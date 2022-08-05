@@ -585,7 +585,10 @@ section {
   font-size: 26px;
 }
 
-
+.gif{
+  width: 100%;
+  border-radius: 10px;
+}
 
 .about .content ul {
   list-style: none;
